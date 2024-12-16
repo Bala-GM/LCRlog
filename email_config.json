@@ -1,0 +1,11 @@
+{
+    "recipients": [
+        "Patrick0960@outlook.com",
+        "  timjo789@gmail.com"
+    ],
+    "subject": "LCR Correction Data for Material",
+    "body": "\n                    Dear Concerned,\n\n                    Please find the following LCR correction details:\n\n                    Material: {material}\n                    Description: {description}\n                    File: {file}\n                    Line: {line}\n                    Machine & Side: {machine_side}\n                    Standard Value: {standard_value}\n                    Measured Value: {measured_value}\n                    AVL: {avl}\n                    Error: {error}\n                    Remarks: {remarks}\n                    Standard Tol%: {standard_tol}\n                    Correction Tol%: {correction_tol}\n\n                    Best regards,\n                    SMT Process Team\n                ",
+    "cc": [
+        "timjo789@gmail.com"
+    ]
+}
