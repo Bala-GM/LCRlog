@@ -410,4 +410,4 @@ if __name__ == "__main__":
     main()
 
 # A LiE IS A STORY THAT MAKE UP THAT TRUTH IS WHAT HAPPEND
-#pyinstaller --onefile --noconsole --icon=lcrmeter.ico LCRlog.py
+#pyinstaller --onefile --noconsole --icon=lcrmeter.ico --log-level=DEBUG LCRLog.py
